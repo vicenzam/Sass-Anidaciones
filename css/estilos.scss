@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+ul{
+  list-style: none;
+  margin-top: 40px;
+  text-align: center;
+
+  li{
+    display: inline-block;
+    border: solid 2px black;
+    padding: 15px;
+
+    a{
+      text-decoration: none;
+      font-size: 20px;
+      color: tomato;
+    }        
+  }
+}
